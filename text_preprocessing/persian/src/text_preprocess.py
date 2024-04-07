@@ -46,6 +46,4 @@ class textPreprocess:
     def correct_speling_words(self):
         pass
 
-    def convert_letter_to_digit(self):
-        
-        pass
+    
